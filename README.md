@@ -2,17 +2,13 @@
 
 ### App Description
 
-This is a form completion app. It will allow you to provide a variety of information, including: first and last name, school name, school year, as well as number of pets and a flag to determine if the user would like more pets or not.
+This is a form filling app. It will allow you to provide a variety of information, including: first and last name, school name, school year, as well as number of pets and a flag to determine if the user would like more pets or not.
 
 ### App Walk-though
-
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 <img src="./Prework_Walkthrough.gif" width=200><br> 
-
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required Features
 
