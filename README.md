@@ -10,7 +10,7 @@ This is a form completion app. It will allow you to provide a variety of informa
 
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
-<img src="./Prework_Walkthrough.mp4" width=200><br> 
+<img src="./Prework_Walkthrough.gif" width=200><br> 
 
 `TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
